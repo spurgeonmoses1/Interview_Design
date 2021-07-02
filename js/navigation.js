@@ -1,4 +1,3 @@
-/* Navigation Menu */
 export default function navigation() {
     var nav = document.querySelector('.header__nav__content');
     var hamburger_menu = document.querySelector('.hamburger-menu-wrap')

@@ -1,5 +1,3 @@
-/* How To Works Section */
-
 export default function works() {
     const worksSection = document.querySelector('.works__content');
     const progressbar = worksSection.querySelector('.form_progressbar');
@@ -20,6 +18,3 @@ export default function works() {
         }
     });
 }
-
-
-/* End How To Works Section */
